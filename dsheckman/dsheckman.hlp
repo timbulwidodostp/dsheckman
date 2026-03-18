@@ -1,0 +1,30 @@
+.-
+help for ^dsheckman^
+.-
+
+Double-lasso estimation of Heckman selection model
+----------------------
+
+ ^dsheckman^
+ 
+Description
+-----------
+
+^dsheckman^ Double-lasso estimation of Heckman selection model
+dsheckman, a dedicated Stata command for estimating double-selection Heckman models
+     
+^Note:^ Requires dsheckman.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^dsheckman y1 x*, sel(y2 = x* z*)^
+ . ^dsheckman y1 x*, sel(y2 = x* z*) selvars(x* z1-z5)^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      Whatsapp (WA) +6285227746673 Or 085227746673
+      https://www.youtube.com/@amalsedekah
