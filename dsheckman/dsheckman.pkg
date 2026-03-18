@@ -1,4 +1,14 @@
-D 'wqsreg': Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
+D 'dsheckman': Double-Lasso Estimation of Heckman Selection Model Use dsheckman (DS-HECK) With STATA 19
 D
-F wqsreg.ado
-F wqsreg.sthlp
+F _display_heckman.ado
+F _dsheckman_getvardim.ado
+F _dsra_display.ado
+F _dsra_parse_syntax.ado
+F _parse_heckman.ado
+F adjust_heckman_V.ado
+F dgp2_heckman.ado
+F dgp_heckman.ado
+F dsheckman.ado
+F dsheckman.hlp
+F dsheckman2.ado
+F dsprobit.ado
