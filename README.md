@@ -1,6 +1,8 @@
 # dsheckman
 Double-Lasso Estimation of Heckman Selection Model Use dsheckman (DS-HECK) With STATA 19
 
+https://www.youtube.com/watch?v=1wvcsCW-3mg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
